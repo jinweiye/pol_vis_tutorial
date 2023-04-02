@@ -9,6 +9,7 @@ description: >
   Tutorial on Polarization-base Computer Vision
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Website template from <a href="https://github.com/CMU-MultiComp-Lab/mmml-tutorial">the MMML Tutorial</a><br />
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

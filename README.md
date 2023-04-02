@@ -1,4 +1,3 @@
-# Tutorial on Polarization-based Computer Vision
 
 Webpages of the tutorials
 
