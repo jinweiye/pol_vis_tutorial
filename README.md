@@ -1,5 +1,7 @@
 # Tutorial on Polarization-based Computer Vision
 
-Webpage for the Tutorial on Polarization-based Computer Vision @ CVPR 2023
+Webpages of the tutorials
 
-http://hgchen.com/pol_vis_tutorial/cvpr2023/
+[PCV at CVPR 2023](https://hgchen.com/pol_vis_tutorial/cvpr2023/)
+
+[PCV at SIGGRAPH 2023](https://hgchen.com/pol_vis_tutorial/siggraph2023/)
