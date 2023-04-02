@@ -1,12 +1,11 @@
 - date: 1
   title: >
-    <strong>Introduction</strong> <a href="https://drive.google.com/file/d/1xtXj95tJeBGxD4quXCDYoKqyQTg-BoUf/view?usp=sharing">[slides]</a> <a href="https://screencast-o-matic.com/watch/c31trKV06YZ">[video]</a>
+    <strong>Principle and representation of polarized light
+            </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
   slides:
   topics:
-    - What is Multimodal? Definitions, dimensions of heterogeneity and cross-modal interactions.<br/>
-    - Historical view and multimodal research tasks.<br/>
-    - Core technical challenges&#58; representation, alignment, transference, reasoning, generation, and quantification.<br/>
+    - History of polarization imaging<br/>
+    - Muller matrices.<br/>
   readings:
-    - <a href="https://arxiv.org/abs/1705.09406">Multimodal Machine Learning&#58; A Survey and Taxonomy</a> <br/>
-    - <a href="https://arxiv.org/abs/1206.5538">Representation Learning&#58; A Review and New Perspectives</a> <br/>
-    
+    - <a href="https://arxiv.org/">Fundamentals of polarization imaging</a> <br/>
+
