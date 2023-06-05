@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 ---
 
-** Exact topics and schedule subject to change, based on interests and time. **
+CVPR 2023 PCV Tutorial Schedule
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
