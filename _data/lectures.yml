@@ -1,4 +1,4 @@
-- date: 1
+- date: 9:00 AM
   title: >
     <strong>Talk 1 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
@@ -8,7 +8,7 @@
     - Item 2<br/>
   readings:
     - <a href="https://arxiv.org/">Reading 1</a> <br/>
-- date: 2
+- date: 9:40 AM
   title: >
     <strong>Talk 2 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
