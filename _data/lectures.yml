@@ -1,4 +1,4 @@
-- date: 900am - 940am
+- date: 1
   title: >
     <strong>Talk 1 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
@@ -8,7 +8,7 @@
     - Item 2<br/>
   readings:
     - <a href="https://arxiv.org/">Reading 1</a> <br/>
-- date: 940am - 1020am
+- date: 2
   title: >
     <strong>Talk 2 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
@@ -18,13 +18,13 @@
     - Item 2<br/>
   readings:
     - <a href="https://arxiv.org/">Reading 2</a> <br/>
-- date: 1020am - 1040am
+- date: 3
   title: >
-    <strong>Coffee Break
+    <strong>Coffee Break</strong>
   slides:
   topics:
   readings:
-- date: 1040am - 1120am
+- date: 4
   title: >
     <strong>Talk 3 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
@@ -34,7 +34,7 @@
     - Item 2<br/>
   readings:
     - <a href="https://arxiv.org/">Reading 3</a> <br/>
-- date: 1120am - 1200pm
+- date: 5
   title: >
     <strong>Talk 3 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
