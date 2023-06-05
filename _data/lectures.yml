@@ -43,8 +43,8 @@
   topics:
     - Building Real-world Multi-modal Polarization Imaging Datasets for Autonomous Driving<br/>
     - Outdoor Perception - Depth Estimation Under Severe Glare<br/>
-    - Outdoor Perception | Adverse Weather Conditions<br/>
-    - Outdoor Perception | Hard-to-See Objects on the Road<br/>
-    - Outdoor Perception | Dark Objects in Dark Environment<br/>
-    - Indoor Perception | Glass-aware Depth Estimation<br/>
+    - Outdoor Perception - Adverse Weather Conditions<br/>
+    - Outdoor Perception - Hard-to-See Objects on the Road<br/>
+    - Outdoor Perception - Dark Objects in Dark Environment<br/>
+    - Indoor Perception - Glass-aware Depth Estimation<br/>
   readings:
