@@ -2,7 +2,7 @@
   title: >
     <strong>Talk 1 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
-  slides: <a href="https://slides.google.com">[slides]</a>
+  slides:
   topics:
     - Item 1<br/>
     - Item 2<br/>
