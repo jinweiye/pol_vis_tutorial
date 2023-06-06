@@ -1,4 +1,11 @@
-- date: 9:00 AM
+- date: 9:00 AM - 9:05 AM
+  title: >
+    <strong>Welcome & Introduction
+            </strong>
+  slides:
+  topics:
+  readings:
+- date: 9:05 AM - 9:45 AM
   title: >
     <strong>Talk 1: Introduction to Polarization and Polarimetric BRDF, with Q&A
             </strong><br/>
@@ -12,23 +19,26 @@
     - BRDF and Polarimetric BRDF<br/>
     - Ellipsometry<br/>
   readings:
-- date: 9:40 AM
+- date: 9:45 AM - 10:25 AM
   title: >
-    <strong>Talk 2 with Q&A
-            </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
+    <strong>Talk 2: Polarization-based 3D Reconstruction, with Q&A
+            </strong><br/>
+    Speaker: Jinwei Ye<br/>
+    <a href="https://slides.google.com">[slides (TBD)]</a> <a href="https://youtube.com">[video (TBD)]</a>
   slides:
   topics:
-    - Item 1<br/>
-    - Item 2<br/>
+    - Shape from Polarization<br/>
+    - Polarimetric Image Decomposition<br/>
+    - Polarization-based Photometric Stereo<br/>
+    - Polarimetric Helmholtz Stereopsis<br/>
   readings:
-    - <a href="https://arxiv.org/">Reading 2</a> <br/>
-- date: 10:20 AM
+- date: 10:25 AM - 10:40 AM
   title: >
     <strong>Coffee Break</strong>
   slides:
   topics:
   readings:
-- date: 10:40 AM
+- date: 10:40 AM - 11:20 AM
   title: >
     <strong>Talk 3 with Q&A
             </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
@@ -38,7 +48,7 @@
     - Item 2<br/>
   readings:
     - <a href="https://arxiv.org/">Reading 3</a> <br/>
-- date: 11:20 AM
+- date: 11:20 AM - 12:00 PM
   title: >
     <strong>Talk 4: Enhancing Real-world Robotic Perception with Polarimetric Imaging, with Q&A
             </strong><br/>
