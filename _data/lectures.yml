@@ -1,14 +1,17 @@
 - date: 9:00 AM
   title: >
-    <strong>Talk 1 with Q&A
-            </strong> <a href="https://slides.google.com">[slides]</a> <a href="https://youtube.com">[video]</a>
+    <strong>Talk 1: Introduction to Polarization and Polarimetric BRDF, with Q&A
+            </strong><br/>
+    Speaker: Seung-Hwan Baek<br/>
+    <a href="https://slides.google.com">[slides (TBD)]</a> <a href="https://youtube.com">[video (TBD)]</a>
   slides:
   topics:
-    - Item 1<br/>
-    - Item 2<br/>
-    - Item 3
+    - Background on Polarization <br/>
+    - Applications of Polarization in Computer Vision <br/>
+    - Representation of Polarization <br/>
+    - BRDF and Polarimetric BRDF<br/>
+    - Ellipsometry<br/>
   readings:
-    - <a href="https://arxiv.org/">Reading 1</a> <br/>
 - date: 9:40 AM
   title: >
     <strong>Talk 2 with Q&A
